@@ -1,3 +1,3 @@
-# first_symfony_project
-Website that manages users, who can creates lists of movies.
-This is only a test 
+# myFavoriteMovies
+Website that manages users, which can creates lists of movies.
+Developped with Symfony.
